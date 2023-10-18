@@ -31,7 +31,7 @@
     <td>10.442</td>
   </tr>
   <tr>
-    <td>Santiago Gonzalez</td>
+    <td><a href="https://github.com/GonzalezBrunoSanti">Santiago Gonzalez</a></td>
     <td></td>
   </tr>
 </table>
