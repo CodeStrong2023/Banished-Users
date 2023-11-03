@@ -1,11 +1,21 @@
-<h1 align="center">Banished Users</h1>
+<p align="center">
+  <img src="https://github.com/CodeStrong2023/Banished-Users/assets/131505719/2447830a-ce0e-4014-a3de-fceb887656d5" alt="Descripción de la imagen">
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat-square&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans IDE">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+</div>
 
 
-<h4>Repositorio para trabajos del segundo semestre 2023</h4>
+---
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-
-- <h3>Integrantes</h3>
+<h3>[Integrantes]</h3>
 
 <br>
 
@@ -15,7 +25,7 @@
     <th>Nº Legajo</th>
   </tr>
   <tr>
-    <td>Axel Carrera</td>
+    <td><a href="https://github.com/leonel-0">Leonel Carrera</a></td>
     <td>10.550</td>
   </tr>
   <tr>
@@ -36,13 +46,13 @@
   </tr>
 </table>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+---
 
-- <h3>Contribuir</h3>
+<h3>[Contribuir]</h3>
 
-<br>
+</br>
 
-1. **Clonar el Repositorio**: Utiliza "cmd" (En Windows)
+1. **Clonar el Repositorio**:
     ```bash
     git clone https://github.com/CodeStrong2023/Banished-Users.git
     ```
@@ -58,6 +68,5 @@
     git commit -m "Descripción de los cambios"
     git push origin [nombre-de-tu-rama]
     ```
-
 
 
